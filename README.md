@@ -27,3 +27,7 @@ Edit `index.html` for content, `styles.css` for appearance, and `script.js` for 
 The full outlined Chao wordmark appears in the header, footer, and every icon. A raised blue dot at the upper right of the final o is the signature detail. Graphite, white, and blue match the site's restrained design. SVG outlines avoid external font dependencies. Browser icons include a multi-size ICO and SVG; Apple touch and Android icons are included. Versioned icon URLs refresh cached favicons.
 
 Brand sources: `assets/chao-mark.svg` (square icon) and `assets/chao-wordmark.svg` (horizontal wordmark). The favicon and PNG exports use the full Chao name.
+
+## University emblems
+
+Education entries use local university emblem images instead of letter placeholders. The original colors and proportions are preserved; assets are sized with `object-fit: contain`. UCLA uses its campus seal with UCLA at the bottom, rather than the generic UC seal. Source references and asset provenance are recorded in `assets/schools/SOURCES.md`.
