@@ -13,3 +13,11 @@
 @media(max-width:560px){.identity .brand-wordmark{width:64px;height:28px}}
 @media(max-width:380px){.nav-links a[href="#expertise"]{display:none}}
 @media print{.footer-name .brand-wordmark{width:65px;height:25px}}
+
+/* Public contact details. */
+.contact-links{display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-top:20px;max-width:100%}
+.contact-links .email-link{display:inline-flex;align-items:center;gap:8px;margin-top:0;font-size:clamp(16px,2.1vw,22px);max-width:100%;letter-spacing:-.4px}
+.contact-links .email-link .arrow{flex-shrink:0;width:18px;height:18px;margin-left:0}
+.phone-link{font-size:17px;letter-spacing:-.2px;color:var(--muted)}
+.phone-link:hover{color:var(--blue)}
+@media print{.contact-links{margin-top:10px;gap:7px}.closing .email-link,.phone-link{font-size:12pt}}

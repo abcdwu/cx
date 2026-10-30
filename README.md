@@ -6,7 +6,7 @@ A responsive English-language profile for **chaoxu.me**. Buildless HTML, CSS, an
 
 From the repository root, run `python3 -m http.server 8080` and open `http://localhost:8080`.
 
-**Save profile as PDF** opens the browser print dialog. Choose Save as PDF; all experience entries expand for printing and are restored afterward. Contact links open an email to `cx@chaoxu.me`.
+**Save profile as PDF** opens the browser print dialog. Choose Save as PDF; all experience entries expand for printing and are restored afterward. Contact links open an email to `xucc2026@lawnet.ucla.edu` or dial `+1 (559) 900-1888`.
 
 ## Deployment
 
@@ -15,7 +15,7 @@ Host the repository root on any static host. For GitHub Pages, select **Settings
 ## Content and privacy
 
 - Retains the supplied institutions, employers, roles, and professional experience.
-- Omits named clients and granular transaction details; only the user-approved email is public.
+- Omits named clients and granular transaction details; only the user-approved email and telephone number are public.
 - Describes PRC Legal Professional Qualification without claiming a current practicing license.
 - UCLA uses the supplied anticipated completion date pending confirmation of graduation.
 - California Bar information is omitted at the user's request.
