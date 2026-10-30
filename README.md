@@ -21,3 +21,9 @@ Host the repository root on any static host. For GitHub Pages, select **Settings
 - California Bar information is omitted at the user's request.
 
 Edit `index.html` for content, `styles.css` for appearance, and `script.js` for print and navigation behavior. Update canonical/Open Graph URLs, `CNAME`, `robots.txt`, and `sitemap.xml` together if the domain changes.
+
+## Chao identity
+
+The full outlined Chao wordmark appears in the header, footer, and every icon. A raised blue dot at the upper right of the final o is the signature detail. Graphite, white, and blue match the site's restrained design. SVG outlines avoid external font dependencies. Browser icons include a multi-size ICO and SVG; Apple touch and Android icons are included. Versioned icon URLs refresh cached favicons.
+
+Brand sources: `assets/chao-mark.svg` (square icon) and `assets/chao-wordmark.svg` (horizontal wordmark). The favicon and PNG exports use the full Chao name.
